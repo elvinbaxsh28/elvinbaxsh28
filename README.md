@@ -1,4 +1,4 @@
-0## Hi  there :wave: , I am Elvin Bakhsheliyev
+## Hi  there :wave: , I am Elvin Bakhsheliyev
 
 <!--
 **ElvinBaxsh/ElvinBaxsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
